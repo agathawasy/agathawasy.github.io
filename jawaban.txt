@@ -1,0 +1,6 @@
+
+Jawaban :
+1. Efek dari kode &lt adalah : Link Agar kita bisa kembali ke halaman index yang ada daftar
+Resep .Dan tidak ada tanda >> pada tulisan daftar Resep.
+2.Efek dari elemen <hr> : Agar kita bisa menulis judul yang akan kita kembali ke halaman index.
+3.Efeknya  dari option target="_blank" pada tag <a>? adalah : menampilkan ling yang akan di tuju
